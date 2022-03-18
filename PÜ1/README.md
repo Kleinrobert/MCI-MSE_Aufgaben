@@ -1,9 +1,13 @@
 # Leistungsdiagnostik
 **(kurze Beschreibung des Ziels)**
+Das Ziel ist es im Team eine Software Leistungsdiagnostik zu entwickeln basierend auf 
+einem Ergometer.
 
 Werkzeug zur Vereinfachung und Automatisierung von Leistungstests, basierend auf EKG-Daten und Leistungswerten und Patient:innen-Daten
 
 ## Installation
+
+
 
 (Was muss man tun, bevor man das Werkzeug nutzen kann?)
 
@@ -20,6 +24,9 @@ Daten müssen wie wie folgt vorliegen?
 
 ## Contributing
 **(Wer ist im Team Name + Matrikelnummer + Email)**
+Robert Klein 2110881019 roklein@gmx.net 
+Nikon Muigg 
+
 
 - [Julian Huber - 123](julian.huber@mci.edu)
 
