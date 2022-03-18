@@ -1,11 +1,12 @@
 # Leistungsdiagnostik
-**(kurze Beschreibung des Ziels)**
+
 Das Ziel ist es im Team eine Software Leistungsdiagnostik zu entwickeln basierend auf 
 einem Ergometer.
 
 Werkzeug zur Vereinfachung und Automatisierung von Leistungstests, basierend auf EKG-Daten und Leistungswerten und Patient:innen-Daten
 
 ## Installation
+Man muss vor der Benutzung des Werkzeuges die dementsprechende Software installieren. Diese Software sollte man auch noch auf Fehler und Ungenauigkeiten testen.
 
 
 
@@ -14,6 +15,7 @@ Werkzeug zur Vereinfachung und Automatisierung von Leistungstests, basierend auf
 t.b.d.
 
 ## Usage
+
 
 (Wie benutzt man das Werkzeug. Wo müssen Daten in welcher Form liegen?)
 
