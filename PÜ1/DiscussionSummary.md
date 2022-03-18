@@ -1,7 +1,7 @@
 ## Project background
 
 ### Purpose of project
-
+Das Ziel des Projektes ist es eine Software zur Leistungsdiagnostik, basierend auf einem Ergometer, zu erstellen.
 ...
 
 ### Scope of project
@@ -14,10 +14,12 @@
 
 ## Perspectives
 ### Who will use the system?
+Das System wird vom Diagnostiker benutzt. 
 
 ...
 
 ### Who can provide input about the system?
+
 
 ...
 
@@ -43,6 +45,7 @@ Aus diesem muss die Herzrate bestimmt werden.
 ...
 
 ## Risks
+Risiken können vor allem durch falsche Daten entstehen. So kann beispielsweise bei einer falschen Ausgabe von Pulswerten der Sportler überfordert werden und so auch überlastet werden. Außerdem kann durch falsche oder ungenaue Daten die wirkliche Leistungsstärke der Proband:in nicht genau bestimmt werden.
 
 ...
 
