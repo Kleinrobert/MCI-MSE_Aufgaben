@@ -10,7 +10,7 @@
 ### UC 2.0. - Auswertung der Leistungsdaten
 
 
-|                                |                                                                                                                                                                               | Beispiel                                                                                                                                         |
+|                                |                                                                                                                                  | Beispiel                                                                                                                                         |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | Name und Identifikationsnummer |                                                                                                  | UC 2.0. - Auswertung der Leistungsdaten                                                                                                                |
 | Beschreibung                   |                                                                                                                | Die Diagnostiker:in führt das Programm aus, welche alle neuen Daten zu Leistungstests einliest und nacheinander aufbereitet. Die Diagnostiker:in kann alle Tests bewerten und dann abspeichern   |
