@@ -7,13 +7,13 @@
 ## Tabellen
 
 
-### UC 2.0. - Auswertung der Leistungsdaten
+### UC 2.5. - Visualisierung der Daten 
 
 
 |                                |                                                                                                                                  | Beispiel                                                                                                                                         |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Name und Identifikationsnummer |                                                                                                  | UC 2.0. - Auswertung der Leistungsdaten                                                                                                                |
-| Beschreibung                   |                                                                                                                | Die Diagnostiker:in führt das Programm aus, welche alle neuen Daten zu Leistungstests einliest und nacheinander aufbereitet. Die Diagnostiker:in kann alle Tests bewerten und dann abspeichern   |
+| Name und Identifikationsnummer |                                                                                                  | UC 2.5. - Visualisierung der Daten                                                                                                                |
+| Beschreibung                   |                                                                                                                |Die Software wandelt die erhaltenen Daten um in eine graphische Lösung oder gibt die Werte als Zahlen aus.|
 | Beteiligte Akteure             |                                                                                                       | Diagnostiker:in                                                                                                                    |
 | Status                         |                                                                                                              | In Arbeit                                                                                                                                        |
 | Verwendete Anwendungsfälle     |                                                                                    | UC 2.1, UC 2.2, UC 2.3, UC 2.4, UC 2.6, UC 2.6                                                                                                          |
