@@ -25,6 +25,6 @@
 | Alternative Ablaufschritte     |                                            Diagnostiker:in erkennt Abbruchgrund und gibt diesen ein. Eingabe wird dokumentiert und mit Daten gespeichert. Erneuter Durchlauf.                                                                       |
 | Hinweise                       |             keine                                                                                                                                            |
 | Änderungsgeschichte            |                                                                                                                                                     0.01; 19.03.2022.; Robert Klein und Nikon Muigg                                                                                                                  |
-|                                |                                                                                                                                                                                         |                                                                                                                                                  |
+                                                                                                                                                                                                                                                                                                                                                                       
 
 
