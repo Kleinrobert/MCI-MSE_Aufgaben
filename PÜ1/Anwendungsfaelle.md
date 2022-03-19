@@ -7,7 +7,7 @@
 ## Tabellen
 
 
-### UC 2.5. - Visualisierung der Daten 
+## UC 2.5. - Visualisierung der Daten 
 
 
 |                | Beispiel                                                                                                                                                  | |                                                                                                                                       
