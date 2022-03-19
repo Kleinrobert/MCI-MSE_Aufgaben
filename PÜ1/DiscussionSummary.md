@@ -5,8 +5,7 @@ Das Ziel des Projektes ist es eine Software zur Leistungsdiagnostik, basierend a
 ...
 
 ### Scope of project
-
-...
+Project scope gibt die Möglichkeiten das Projekt genau zu definieren in hinsicht auf Ziele, Fristen und die Projektleistung.
 
 ### Other background information
 
@@ -25,6 +24,7 @@ Das System wird vom Diagnostiker benutzt.
 
 
 ## Project Objectives
+
 ### Known business rules
 
 ...
