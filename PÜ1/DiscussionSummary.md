@@ -5,7 +5,7 @@ Das Ziel des Projektes ist es eine Software zur Leistungsdiagnostik, basierend a
 ...
 
 ### Scope of project
-Project scope gibt die Möglichkeiten das Projekt genau zu definieren in hinsicht auf Ziele, Fristen und die Projektleistung.
+Die Software soll herusfinden ob die Messungen gültig sind. Jede Messung einer Person zuordnen und die erfolgreichen Messungen in einem ordner speichern.
 
 ### Other background information
 
@@ -41,7 +41,7 @@ Aus diesem muss die Herzrate bestimmt werden.
 ...
 
 ### Design and implementation constraints
-
+In einer Erweiterung könnte das Design verbessert werden.  
 ...
 
 ## Risks
