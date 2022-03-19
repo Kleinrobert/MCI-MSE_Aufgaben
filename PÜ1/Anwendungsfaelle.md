@@ -10,7 +10,7 @@
 ### UC 2.5. - Visualisierung der Daten 
 
 
-|                | Beispiel                                                                                                                                                  |Beispiel                                                                                                                                         |
+|                | Beispiel                                                                                                                                                  |                                                                                                                                        |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | Name und Identifikationsnummer |                                                                                                   UC 2.5. - Visualisierung der Daten                                                                                                                |
 | Beschreibung                   |                                                                                                                Die Software wandelt die erhaltenen Daten um in eine graphische Lösung oder gibt die Werte als Zahlen aus.|
