@@ -5,7 +5,7 @@ Das Ziel des Projektes ist es eine Software zur Leistungsdiagnostik, basierend a
 ...
 
 ### Scope of project
-Die Software soll herusfinden ob die Messungen gültig sind. Jede Messung einer Person zuordnen und die erfolgreichen Messungen in einem ordner speichern.
+Die Software soll herausfinden ob die Messungen gültig sind. Jede Messung einer Person zuordnen und die erfolgreichen Messungen in einem Ordner speichern sowie die ungültigen in einem anderen Ordner speichern.
 
 ### Other background information
 
@@ -50,7 +50,8 @@ Risiken können vor allem durch falsche Daten entstehen. So kann beispielsweise 
 ...
 
 ## Known future enhancements
-
+Dass die Diagnostiker durch das Interface durch den Leistungstest geführt werden.
+Und dass sobald Risiken für den Sportler auftreten können das System das erkennt und abbricht.
 ...
 
 ## References
