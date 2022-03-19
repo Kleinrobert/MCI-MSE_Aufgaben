@@ -26,8 +26,8 @@ Daten müssen wie wie folgt vorliegen?
 
 ## Contributing
 **(Wer ist im Team Name + Matrikelnummer + Email)**
-- Robert Klein 2110881019 roklein@gmx.net 
-- Nikon Muigg 52110062  mn1706@mci4me.at
+- Robert Klein - 2110881019 (roklein@gmx.net )
+- Nikon Muigg - 52110062  (mn1706@mci4me.at)
 
 
 - [Julian Huber - 123](julian.huber@mci.edu)
