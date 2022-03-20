@@ -28,7 +28,7 @@ Ziel ist es eine fehlerfreie Software für das Ergometer zu erstellen.
 
 ### Known business rules
 
-...
+Das System sollte auf einer Low-Code-Lösung basieren
 
 ### System information and/or diagrams
 
@@ -61,4 +61,4 @@ Und dass sobald Risiken für den Sportler auftreten können das System das erken
 
 ## Open, unresolved or TBD issues
 
-...
+
