@@ -40,7 +40,7 @@ Aus diesem muss die Herzrate bestimmt werden.
 
 ### Assumptions and dependencies
 
-...
+Abängigkeit von der Richtigkeit der Daten.
 
 ### Design and implementation constraints
 
