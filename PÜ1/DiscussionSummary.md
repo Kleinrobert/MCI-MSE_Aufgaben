@@ -26,7 +26,7 @@ Das System wird vom Diagnostiker benutzt.
 
 
 ## Project Objectives
-....
+Ziel ist es eine fehlerfreie Software für das Ergometer zu erstellen.
 
 ### Known business rules
 
