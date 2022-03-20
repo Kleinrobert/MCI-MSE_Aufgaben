@@ -21,7 +21,7 @@ Das System wird vom Diagnostiker benutzt.
 
 ### Who can provide input about the system?
 
-Der Probant:in und der Softwareentwickler.
+Der Proband:in und der Softwareentwickler.
 
 
 ## Project Objectives
