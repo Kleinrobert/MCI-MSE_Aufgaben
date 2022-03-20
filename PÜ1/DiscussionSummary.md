@@ -12,7 +12,6 @@ Die Software soll herausfinden ob die Messungen gültig sind. Jede Messung einer
 Die die abgeschlossenen Tests werden vom Ergometer als separate Dateien (Zeitreihe mit Leistung und Herzrate) gespeichert.
 
 ## Perspectives
-...
 
 ### Who will use the system?
 
