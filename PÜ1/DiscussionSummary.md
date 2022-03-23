@@ -35,7 +35,8 @@ Beispiel von aufgezeichneten EKG Daten
 Aus diesem muss die Herzrate bestimmt werden.
 
 ### Assumptions and dependencies
-
+Die power_data beschreibt die aktuelle Watt Leistung. Die Werte werden in einem Zeitraum von 180 Sekunden in jeder einzelnen Sekunde gemessen und aufgezeichnet.
+Das subject_1-3 bescheibt die einzelne Testperson mit ihren Werten und ihrer Nummer näher. Hier wird die Watt - Leistung mit dem der Test durchgeführt wurde, sowie das Geburtsjahr und auch die Testdauer angeführt. 
 ...
 
 ### Design and implementation constraints
