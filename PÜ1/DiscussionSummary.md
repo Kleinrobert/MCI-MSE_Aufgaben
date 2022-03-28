@@ -39,7 +39,10 @@ Aus diesem muss die Herzrate bestimmt werden.
 
 ### Assumptions and dependencies
 
-Abängigkeit von der Richtigkeit der Daten.
+
+Die power_data gibt die Watt Leistung zu jeder Sekunde des Tests an, der 180 Sekunden lang andauert.
+Die Datei subjet_ gibt Details über die Testperson. Hier wird die Nummer der Testperson, die Testleistung, das Geburtstjahr und die Länge des Tests angegeben.
+Die ecg_data_subject gibt die EKG Daten für die jeweilige Testperson an. Die Messung wird pro Sekunde 1000 mal durchgeführt, wodurch man dann 180.000 Messwerte zur Verfügung hat.
 
 ### Design and implementation constraints
 
