@@ -17,10 +17,13 @@ Die die abgeschlossenen Tests werden vom Ergometer als separate Dateien (Zeitrei
 
 Das System wird vom Diagnostiker benutzt. 
 
+*und weiteren Benutzern - YS*
 
 ### Who can provide input about the system?
 
 Der Proband:in und der Softwareentwickler.
+
+*Es geht hier um Hilfestellung, also wahrscheinlich eher nicht der Proband. -YS*
 
 
 ## Project Objectives
@@ -29,6 +32,8 @@ Ziel ist es eine fehlerfreie Software für das Ergometer zu erstellen.
 ### Known business rules
 
 Das System sollte auf einer Low-Code-Lösung basieren
+
+*Ablauf noch ein bisschen konkreter -YS*
 
 ### System information and/or diagrams
 
@@ -46,7 +51,9 @@ Die ecg_data_subject gibt die EKG Daten für die jeweilige Testperson an. Die Me
 
 ### Design and implementation constraints
 
-In einer Erweiterung könnte das Design verbessert werden.  
+In einer Erweiterung könnte das Design verbessert werden. 
+
+*Eher ein Verbesserungsvorschlag, die Frage hier ist was ist die Einschränkung des aktuellen Designs. -YS*
 
 ## Risks
 
