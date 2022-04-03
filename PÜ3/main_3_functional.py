@@ -31,16 +31,16 @@ new_ecg_data["Subject_3"].plot()
 
 import neurokit2 as nk
 
-ekg_data=pd.DataFrame()
+ekg_data=pd.DataFrame() #Erstellen einer Tabelle
 ekg_data["ECG"] = new_ecg_data["Subject_3"]
 
 # Find peaks
 peaks, info = nk.ecg_peaks(ekg_data["ECG"], sampling_rate=1000)
-
+# Herzschlag messen
 number_of_heartbeats = peaks["ECG_R_Peaks"].sum()
-
+# Min Dauer
 duration_test_min = ekg_data.size/1000/60
-
+# Durschnittliche Herzfrequenz
 average_hr_test = number_of_heartbeats / duration_test_min
 
 ## Calculate heart rate moving average
@@ -69,11 +69,11 @@ f = open(file_name)
 # a dictionary
 subject_data = json.load(f)
 
-
+# Max. Herzfrequenz herausfinden
 maximum_hr = peaks['average_HR_10s'].max()
 
 subject_max_hr = 220 - (2022 - subject_data["birth_year"])
-
+# Abbruch bei übertretung von max. Herzfrequenz
 if maximum_hr > subject_max_hr*0.90:
     termination = True
 
