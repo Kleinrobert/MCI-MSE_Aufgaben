@@ -21,3 +21,5 @@
 
 #%% UC 2.7 Speichern der Daten
 # Alle Daten speichern mit befehl file.write()
+
+# An sich gut, nur die Befehle gehören normalerweise noch nicht in die Kommentarbeschreibung sondern dann direkt in den Code -YS
