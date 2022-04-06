@@ -12,7 +12,7 @@ for i in range(3):
     plt.plot(y, color="blue")
     plt.show()
 
-
+# Gut, aber eine flexible Zahl an Dateien wäre noch besser -YS 
 # %%
 
 # %%
