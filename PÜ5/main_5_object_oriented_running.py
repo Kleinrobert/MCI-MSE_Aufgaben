@@ -16,7 +16,6 @@ log.basicConfig(filename='logfile.log', level=log.INFO, format='%(asctime)s - %(
 
 
 
-
 # %%
 # Definition of Classes
 
@@ -170,10 +169,7 @@ class Test:
         if self.manual_termination != '': # wenn manueller abbruch freigelassen dann ist der Test gültig
             self.termination = True
             log.info('Test with subject-id: %s was invalid', self.subject_id) #log für manuellen Abbruch
-
-
-        
-        
+            
 
     def create_plot(self):
         """
@@ -201,8 +197,6 @@ class Test:
 
         with open(__results_file, 'w', encoding='utf-8') as f:
             json.dump(__data, f, ensure_ascii=False, indent=4)
-
-
 
 
 
@@ -260,7 +254,4 @@ for test in list_of_new_tests:                      # Alle Tests werden nacheina
 
 
 
-# %%
-© 2022 GitHub, Inc.
-Terms
-Privacy
+
